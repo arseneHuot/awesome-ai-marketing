@@ -159,8 +159,7 @@ By **[Altern](https://altern.ai)**
 
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**  
   A curated list of marketing tools, strategies, and resources for marketers.
-- **[MarketingToolsList](https://marketingtoolslist.com)**  
-  A comprehensive platform that lists the best marketing tools for various digital marketing needs.
+- [Awesome Lead Generation](https://github.com/dariubs/awesome-lead-generation) - A curated list of tools, strategies, playbooks, and resources for generating, qualifying, and converting leads.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**  
   A collection of curated AI tools for various use cases, including marketing, business, and technology.
 
